@@ -1,8 +1,5 @@
 package downloader;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
 public class Main {
     private static String user = System.getProperty("user.name");
     public static String directory = "C:/Users/" + user + "/Downloads/";
